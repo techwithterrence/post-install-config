@@ -14,8 +14,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
+
+![image](https://github.com/techwithterrence/post-install-config/assets/174138674/8d55481f-af6b-4d4b-ad09-ed9304909860)
+
+  
 - Remote Desktop
+
+- ![image](https://github.com/techwithterrence/post-install-config/assets/174138674/83ea362c-76a5-4e88-9e74-31ab7dd919da)
+
+
 - Internet Information Services (IIS)
+
+  ![image](https://github.com/techwithterrence/post-install-config/assets/174138674/ddaa4410-624a-4543-9bf3-d6cdcff244e3)
+
 
 <h2>Operating Systems Used </h2>
 
